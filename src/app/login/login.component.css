@@ -1,0 +1,19 @@
+.login-wrapper{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	background-color: cornflowerblue;
+}
+.login-inner{
+	width: 40%;
+	background-color: #fff;
+	color: black;
+}
+.btn{
+	width: 100%;
+	border-radius: 0;
+}
+input{
+	border-radius: 0;
+}

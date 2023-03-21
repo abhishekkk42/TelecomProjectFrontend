@@ -1,0 +1,8 @@
+.signup-wrapper{
+    background-color: cadetblue;
+}
+.signup-inner{
+    background-color: #fff;
+    width: 50%;
+    min-width: 450px;
+}

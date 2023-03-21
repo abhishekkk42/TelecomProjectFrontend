@@ -1,0 +1,12 @@
+.profile-header{
+        background-color: cadetblue;
+}
+
+img{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+}
+.display-custom{
+    font-size: 30px;
+}
